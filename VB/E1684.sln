@@ -1,0 +1,19 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Stock2DChart", "Stock2DChart.vbproj", "{4542BDEE-A905-441F-9781-D074FE9EA9EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4542BDEE-A905-441F-9781-D074FE9EA9EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4542BDEE-A905-441F-9781-D074FE9EA9EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4542BDEE-A905-441F-9781-D074FE9EA9EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4542BDEE-A905-441F-9781-D074FE9EA9EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
